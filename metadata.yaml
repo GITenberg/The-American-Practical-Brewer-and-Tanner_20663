@@ -1,0 +1,29 @@
+_repo: The-American-Practical-Brewer-and-Tanner_20663
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coppinger, Joseph
+    gutenberg_agent_id: '9448'
+    url: http://www.gutenberg.org/2009/agents/9448
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+- Crafts
+gutenberg_issued: '2007-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tanning'
+- !lcc 'TP'
+- !lcsh 'Brewing'
+title: The American Practical Brewer and Tanner
+url: http://www.gutenberg.org/ebooks/20663
